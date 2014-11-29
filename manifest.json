@@ -1,0 +1,20 @@
+{
+  "name": "The Walking Dead",
+  "description": "A série de TV de grande sucesso, The Walking Dead, em seu formato original, as histórias em quadrinhos.",
+  "version": "0.0.0.1",
+  "manifest_version": 2,
+  "app": {
+    "background": {
+      "scripts": ["js/chrome-utils.js", "main.js"]
+    }
+  },
+  "icons": {
+    "256": "icon.png"
+  },
+  "permissions" : [
+    {"fileSystem": ["write", "retainEntries", "directory"]},
+    "http://thewalkingdead-online.com/",
+    "storage",
+    "unlimitedStorage"
+  ]
+}

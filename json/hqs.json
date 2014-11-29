@@ -1,0 +1,123 @@
+{
+	"hqs": [
+		{
+			"id": 1,
+			"name": "Dias Passados",
+			"file": "hq1.json",
+			"description": "Este volume começa com a história de Rick Grimes, um vice-cherife de Kentucky, que foi ferido em ação e emerge de um coma para descobrir o mundo assolado por mortos-vivos. Ao voltar para casa, ele encontra sua casa saqueada e sua esposa e filho desaparecidos. Rick viaja para uma zona de evacuação militar em Atlanta para encontrar sua família e se junta a um pequeno grupo de sobreviventes ao longo do caminho, o tempo todo tentando se adaptar à vida neste novo mundo.",
+			"wiki": "http://walkingdead.wikia.com/wiki/Volume_1:_Days_Gone_Bye"
+		},
+		{
+			"id": 2,
+			"name": "Caminhos Trilhados",
+			"file": "hq2.json",
+			"description": "Este volume ocorre após os acontecimentos do Volume 1: Dias Passados. Após a morte de Shane, Rick Grimes e o resto dos sobreviventes deixam Atlanta e viajam através de muitos quilômetros de território hostil buscando uma casa mais segura. O grupo econtra novos membros e perde alguns conforme tentam sobreviver ao inverno brutal. O grupo finalmente encontra abrigo em uma pequena fazenda, embora se descobre que Hershel Greene, o proprietário da fazenda, e sua família estão mantendo um segredo obscuro.",
+			"wiki": "http://walkingdead.wikia.com/wiki/Volume_2:_Miles_Behind_Us"
+		},
+		{
+			"id": 3,
+			"name": "Segurança Atrás Das Grades",
+			"file": "hq3.json"
+		},
+		{
+			"id": 4,
+			"name": "Desejos Carnais",
+			"file": "hq4.json"
+		},
+		{
+			"id": 5,
+			"name": "A Melhor Defesa",
+			"file": "hq5.json"
+		},
+		{
+			"id": 6,
+			"name": "Vida De Agonia",
+			"file": "hq6.json"
+		},
+		{
+			"id": 7,
+			"name": "Momentos De Calmaria",
+			"file": "hq7.json"
+		},
+		{
+			"id": 8,
+			"name": "Nascidos Para Sofrer",
+			"file": "hq8.json"
+		},
+		{
+			"id": 9,
+			"name": "Assim Nós Continuamos",
+			"file": "hq9.json"
+		},
+		{
+			"id": 10,
+			"name": "O Que Nos Tornamos",
+			"file": "hq10.json"
+		},
+		{
+			"id": 11,
+			"name": "Sob A Mira Dos Caçadores",
+			"file": "hq11.json"
+		},
+		{
+			"id": 12,
+			"name": "Cercados Pelos Vivos",
+			"file": "hq12.json"
+		},
+		{
+			"id": 13,
+			"name": "Indo Longe Demais",
+			"file": "hq13.json"
+		},
+		{
+			"id": 14,
+			"name": "Sem Saída",
+			"file": "hq14.json"
+		},
+		{
+			"id": 15,
+			"name": "Nos Encontramos",
+			"file": "hq15.json"
+		},
+		{
+			"id": 16,
+			"name": "Um Mundo Maior",
+			"file": "hq16.json"
+		},
+		{
+			"id": 17,
+			"name": "Algo A Temer",
+			"file": "hq17.json"
+		},
+		{
+			"id": 18,
+			"name": "O Que Vem A Seguir",
+			"file": "hq18.json"
+		},
+		{
+			"id": 19,
+			"name": "Marcha Para A Guerra",
+			"file": "hq19.json"
+		},
+		{
+			"id": 20,
+			"name": "Guerra Total (Parte 1)",
+			"file": "hq20.json"
+		},
+		{
+			"id": 21,
+			"name": "Guerra Total (Parte 2)",
+			"file": "hq21.json"
+		},
+		{
+			"id": 22,
+			"name": "Um Novo Começo",
+			"file": "hq22.json"
+		},
+		{
+			"id": 23,
+			"name": "",
+			"file": "hq23.json"
+		}
+	]
+}
