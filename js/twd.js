@@ -142,15 +142,16 @@ $(document).ready(function() {
 		});
 
 		self.loadPendingImage();
+		self.isZoom = false;
 		self.bindZoom();
 
+		$(window).off("keydown");
 		$(window).on("keydown", function(e) {
 			if (e.keyCode == 27) {
 				if (self.isZoom) {
 					zoomView.trigger('click');
 				} else {
-					$(window).off("keydown");
-					bookView.fadeOut();
+					$(".book-view").fadeOut();
 				}
 			}
 		});
@@ -233,8 +234,8 @@ $(document).ready(function() {
 
 		$(".flipbook img").off('click');
 		$(".flipbook img").on('click', function(e) {
-			self.isZoom = true;
 			if (!self.isChanging) {
+				self.isZoom = true;
 			    var pos = {
 			        x: e.pageX - $(this).offset().left,
 			        y: e.pageY - $(this).offset().top
